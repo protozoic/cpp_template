@@ -1,0 +1,7 @@
+/build/
+/external/
+/.xmake/
+*.obj
+*.o
+*.ifc
+*.exe

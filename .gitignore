@@ -1,7 +1,9 @@
 /build/
 /external/
 /.xmake/
+/.cache/
 *.obj
 *.o
 *.ifc
 *.exe
+compile_commands.json
